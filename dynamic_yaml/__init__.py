@@ -1,6 +1,6 @@
 import yaml
 
-from yaml_wrappers import YamlDict, YamlList
+from .yaml_wrappers import YamlDict, YamlList
 
 
 def load(infile):
