@@ -12,7 +12,7 @@ setup(
     version='1.1.1',
     description='Enables self referential yaml entries',
     long_description=long_description,
-    url='https://github.com/childsish/dynamic-yaml',
+    url='https://github.com/milost/dynamic-yaml',
     author='Liam Childs',
     author_email='liam.h.childs@gmail.com',
     license='MIT',
