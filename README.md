@@ -60,7 +60,7 @@ Installation
 To install, simply run:
 
 ```bash
-pip install git+https://github.com/childsish/dynamic-yaml
+pip install git+https://github.com/milost/dynamic-yaml
 ```
 
 Restrictions
